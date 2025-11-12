@@ -12,6 +12,38 @@
         "months": 9,
         "monthlyPayment": "263.00"
       }
+    },
+    "": {
+      "hashedPassword": "$2b$10$6wtNPn3pLTsVO4iHpD0wluBt8t9/v4J71wTgUhzCOuCj2102TQ5qy",
+      "plan": null
+    },
+    "latif": {
+      "hashedPassword": "$2b$10$jZM1qUjF/6jfuqCYsoAUBeb5gEGdiXZf8VEKV.bFpIdcJuyf6J5tO",
+      "plan": null
+    },
+    "jürgen": {
+      "hashedPassword": "$2b$10$g.YLo1NIq2i8B9Iv22ojDuIIwh65pRb2TL.w5ELmhFXFXBNYFikdq",
+      "plan": null
+    },
+    "otto": {
+      "hashedPassword": "$2b$10$aj0OKQInMoQB.prqWJ7SZeF6gU2SWw4fUN4IMb86qR5F7/znWQyDS",
+      "plan": null
+    },
+    "abc": {
+      "hashedPassword": "$2b$10$t77YiklKEt5IyAbgs.debe/FmsBRPCCuqKnQ0qCcSUX8Uo1TjGVpi",
+      "plan": null
+    },
+    "aaa": {
+      "hashedPassword": "$2b$10$GUd4LL2akMGRBzdtJa5ntOdHZ9wGk3GfHm0D4hNqWtUpYCsYa6Tqa",
+      "plan": null
+    },
+    "aaaa": {
+      "hashedPassword": "$2b$10$zzmfDrP5oXSIbNAzVcAqVOOyGtmUOq.K4yh/rVRUY0kPPCkqoMMdq",
+      "plan": null
+    },
+    "bbb": {
+      "hashedPassword": "$2b$10$KwOlrxaBxGAzgCwOqWDd4uFEvKEjSTgdedLmJUhNHaLW5PQao6TdS",
+      "plan": null
     }
   }
 }
