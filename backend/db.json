@@ -1,0 +1,17 @@
+{
+  "users": {
+    "Latif": {
+      "hashedPassword": "$2b$10$L.p9gHRMDVUB6ZBpsCQCMethXRQlYX7rZFckO1QK4aVgwae0pBubG",
+      "plan": {
+        "debt": 2300,
+        "interest": 0,
+        "income": 563,
+        "incomeType": "monthly",
+        "expenses": 300,
+        "aggressiveness": 10,
+        "months": 9,
+        "monthlyPayment": "263.00"
+      }
+    }
+  }
+}
