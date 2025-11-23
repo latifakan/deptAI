@@ -19,7 +19,133 @@
     },
     "latif": {
       "hashedPassword": "$2b$10$jZM1qUjF/6jfuqCYsoAUBeb5gEGdiXZf8VEKV.bFpIdcJuyf6J5tO",
-      "plan": null
+      "plan": {
+        "debts": [
+          {
+            "name": "1000",
+            "amount": 0,
+            "interest": 0,
+            "minPayment": 0,
+            "creditor": "Friend",
+            "totalAmount": 2000,
+            "nominalRate": 2,
+            "variableAdjustment": 1.5,
+            "monthlyPayment": 45,
+            "earlyRepaymentAllowed": true,
+            "paymentDeadline": "15",
+            "hasReminders": false
+          },
+          {
+            "id": "1763284737372",
+            "creditor": "Bank",
+            "totalAmount": 3000,
+            "nominalRate": 2.99,
+            "monthlyPayment": 75,
+            "type": "mortgage",
+            "earlyRepaymentAllowed": false,
+            "hasReminders": false,
+            "collectionAgency": false,
+            "enforcement": false,
+            "effectiveRate": 2,
+            "remainingTermMonths": 12
+          }
+        ],
+        "income": 2000,
+        "incomeType": "monthly",
+        "expenses": 1000,
+        "strategy": "avalanche",
+        "aggressiveness": 10,
+        "result": {
+          "months": 6,
+          "totalInterest": "30.39",
+          "timeline": [
+            {
+              "month": 1,
+              "interestPaid": "10.81",
+              "debts": [
+                {
+                  "creditor": "Bank",
+                  "remaining": "2052.47"
+                },
+                {
+                  "creditor": "Friend",
+                  "remaining": "1958.33"
+                }
+              ]
+            },
+            {
+              "month": 2,
+              "interestPaid": "8.38",
+              "debts": [
+                {
+                  "creditor": "Bank",
+                  "remaining": "1102.59"
+                },
+                {
+                  "creditor": "Friend",
+                  "remaining": "1916.60"
+                }
+              ]
+            },
+            {
+              "month": 3,
+              "interestPaid": "5.94",
+              "debts": [
+                {
+                  "creditor": "Bank",
+                  "remaining": "150.34"
+                },
+                {
+                  "creditor": "Friend",
+                  "remaining": "1874.79"
+                }
+              ]
+            },
+            {
+              "month": 4,
+              "interestPaid": "3.50",
+              "debts": [
+                {
+                  "creditor": "Bank",
+                  "remaining": "0.00"
+                },
+                {
+                  "creditor": "Friend",
+                  "remaining": "1028.63"
+                }
+              ]
+            },
+            {
+              "month": 5,
+              "interestPaid": "1.71",
+              "debts": [
+                {
+                  "creditor": "Bank",
+                  "remaining": "0.00"
+                },
+                {
+                  "creditor": "Friend",
+                  "remaining": "30.34"
+                }
+              ]
+            },
+            {
+              "month": 6,
+              "interestPaid": "0.05",
+              "debts": [
+                {
+                  "creditor": "Bank",
+                  "remaining": "0.00"
+                },
+                {
+                  "creditor": "Friend",
+                  "remaining": "0.00"
+                }
+              ]
+            }
+          ]
+        }
+      }
     },
     "jürgen": {
       "hashedPassword": "$2b$10$g.YLo1NIq2i8B9Iv22ojDuIIwh65pRb2TL.w5ELmhFXFXBNYFikdq",
